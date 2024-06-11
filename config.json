@@ -1,5 +1,5 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://raw.githubusercontent.com/Isvatten0/website/master/README.md",
   "title": "Luke's World",
   "name": "Luke Roberts",
   "ascii": "Luke Roberts",
@@ -10,8 +10,7 @@
   "email": "luke.roberts047@gmail.com",
   "ps1_hostname": "Employer",
   "ps1_username": "MyFuture",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "https://github.com/Isvatten0/website",
   "colors": {
     "light": {
       "background": "#FDF6E3",
