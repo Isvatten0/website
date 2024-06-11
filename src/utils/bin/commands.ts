@@ -29,7 +29,7 @@ Welcome to my website!
 An "unbiased" source tells me you are going to 
 find exactly what you were looking for. ;)
 More about me:
-'sumfetch' - short summary.
+'summary' - short summary.
 'resume' - my latest resume.`;
 };
 
@@ -101,8 +101,7 @@ export const summary = async (args: string[]): Promise<string> => {
   hopping aboard the Neet/Leetcode train. In my free time, I am developing games and building an interactive website (as you can see lol ).
   So far I've made a zombie survival game in Godot as well as a Monster battle checkers game in Pygame.
   
-  oh, and also I'm proficient in Excel... ;)
-  ...But seriously I use it daily.`;
+  oh, and also I'm proficient in Excel... ;)`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
